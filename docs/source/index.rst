@@ -64,9 +64,9 @@ Termin 2
 Obraz
 =====
 
-.. image:: path/to/image.png
-   :alt: Alternatywny tekst dla obrazu
-   :caption: Podpis pod obrazem
+.. image:: obraz.png
+   :alt: Alternatywny tekst  obrazu
+   :caption: Adrianek
 
 Tabela
 ======
