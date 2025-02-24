@@ -65,8 +65,10 @@ Obraz
 =====
 
 .. image:: ./obraz.png
-   :alt: Alternatywny tekst  obrazu
-   :caption: Adrianek
+
+   :alt: Tekst alternatywny
+
+   :align: center
 
 Tabela
 ======
