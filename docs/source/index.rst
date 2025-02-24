@@ -65,10 +65,8 @@ Obraz
 =====
 
 .. image:: ./obraz.png
+      :alt: Tekst alternatywny
 
-   :alt: Tekst alternatywny
-
-   :align: center
 
 Tabela
 ======
