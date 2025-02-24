@@ -64,7 +64,7 @@ Termin 2
 Obraz
 =====
 
-.. image:: obraz.png
+.. image:: ./obraz.png
    :alt: Alternatywny tekst  obrazu
    :caption: Adrianek
 
